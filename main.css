@@ -1,0 +1,15 @@
+h1, h3 {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 600
+}
+
+p {
+    font-family: 'Overpass', sans-serif;
+    font-weight: 300
+}
+
+
+/* Nav bar styling */
+.nav-bar p {
+    font-family: 'Ubuntu', sans-serif;
+}
